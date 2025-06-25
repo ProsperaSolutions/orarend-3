@@ -112,13 +112,8 @@ for idx, group in enumerate(st.session_state.data["csoportok"]):
         )
 
         st.markdown("#### 📚 Tantárgyak")
-        for t_idx, tantargy in enumerate(group['tantargyak']):
         for t_idx, tantargy in enumerate(group["tantargyak"]):
             st.markdown(f"**Tantárgy {t_idx+1}**")
-            tantargy['nev'] = st.text_input("Név", tantargy['nev'], key=f"tnev_{idx}_{t_idx}")
-            tantargy['oraszam'] = st.number_input("Óraszám", min_value=1, value=tantargy['oraszam'], key=f"ora_{idx}_{t_idx}")
-            tantargy['tipus'] = st.selectbox("Típus", ["elmelet", "gyakorlat"], index=0 if tantargy['tipus']=="elmelet" else 1, key=f"ttip_{idx}_{t_idx}")
-            tantargy['teremtipus'] = st.text_input("Terem típusa", tantargy['teremtipus'], key=f"tt_{idx}_{t_idx}")
             tantargy["nev"] = st.text_input(
                 "Név", tantargy["nev"], key=f"tnev_{idx}_{t_idx}"
             )
@@ -171,15 +166,6 @@ for idx, group in enumerate(st.session_state.data["csoportok"]):
             terem['tipus'] = st.text_input("Típus", terem['tipus'], key=f"rtip_{idx}_{r_idx}")
             terem['kapacitas'] = st.number_input("Kapacitás", min_value=1, value=terem['kapacitas'], key=f"rkap_{idx}_{r_idx}")
             st.markdown("---")
-            group["tantargyak"].append(
-                {
-                    "id": f"T{len(group['tantargyak']) + 1}",
-                    "nev": "Új tantárgy",
-                    "tipus": "elmelet",
-                    "oraszam": 30,
-                    "teremtipus": "elmeleti",
-                }
-            )
 
         if st.button("➕ Új terem", key=f"new_terem_{idx}"):
             group['termek'].append({
@@ -306,36 +292,6 @@ def generate_schedule_for_all(csoportok):
         "S1": "08:00-10:00", "S2": "10:00-12:00", "S3": "12:00-14:00", "S4": "14:00-16:00", "S5": "16:00-18:00", "S6": "18:00-20:00",
         "CS1": "08:00-10:00", "CS2": "10:00-12:00", "CS3": "12:00-14:00", "CS4": "14:00-16:00", "CS5": "16:00-18:00", "CS6": "18:00-20:00",
         "P1": "08:00-10:00", "P2": "10:00-12:00", "P3": "12:00-14:00", "P4": "14:00-16:00", "P5": "16:00-18:00", "P6": "18:00-20:00"
-        "H1": "08:00-10:00",
-        "H2": "10:00-12:00",
-        "H3": "12:00-14:00",
-        "H4": "14:00-16:00",
-        "H5": "16:00-18:00",
-        "H6": "18:00-20:00",
-        "K1": "08:00-10:00",
-        "K2": "10:00-12:00",
-        "K3": "12:00-14:00",
-        "K4": "14:00-16:00",
-        "K5": "16:00-18:00",
-        "K6": "18:00-20:00",
-        "S1": "08:00-10:00",
-        "S2": "10:00-12:00",
-        "S3": "12:00-14:00",
-        "S4": "14:00-16:00",
-        "S5": "16:00-18:00",
-        "S6": "18:00-20:00",
-        "CS1": "08:00-10:00",
-        "CS2": "10:00-12:00",
-        "CS3": "12:00-14:00",
-        "CS4": "14:00-16:00",
-        "CS5": "16:00-18:00",
-        "CS6": "18:00-20:00",
-        "P1": "08:00-10:00",
-        "P2": "10:00-12:00",
-        "P3": "12:00-14:00",
-        "P4": "14:00-16:00",
-        "P5": "16:00-18:00",
-        "P6": "18:00-20:00",
     }
 
     for input_data in csoportok:
@@ -345,12 +301,6 @@ def generate_schedule_for_all(csoportok):
         termek = input_data['termek']
         idosavok = input_data['idosavok']
         beallitasok = input_data['beallitasok']
-        csoport = input_data["csoport"]
-        tantargyak = input_data["tantargyak"]
-        oktatok = input_data["oktatok"]
-        termek = input_data["termek"]
-        idosavok = input_data["idosavok"]
-        beallitasok = input_data["beallitasok"]
 
         kezdo_datum = datetime.strptime(beallitasok["kezdo_datum"], "%Y-%m-%d")
         hetek_szama = beallitasok["hetek_szama"]
@@ -372,14 +322,6 @@ def generate_schedule_for_all(csoportok):
                     "idosav_id": sav["id"],
                     "datum": teljes_datum
                 })
-                idosavok_kiterjesztve.append(
-                    {
-                        "het": het,
-                        "nap": sav["nap"],
-                        "idosav_id": sav["id"],
-                        "datum": teljes_datum,
-                    }
-                )
 
         foglalt_tantargyak = defaultdict(lambda: defaultdict(set))
         foglalt_tantargy_savok = defaultdict(lambda: defaultdict(list))
@@ -387,17 +329,6 @@ def generate_schedule_for_all(csoportok):
         for tantargy in tantargyak:
             max_kap = max((r["kapacitas"] for r in termek if r["tipus"] == tantargy["teremtipus"]), default=1)
             orablokkok = ((csoport["letszam"] + max_kap - 1) // max_kap) * (tantargy["oraszam"] // ora_hossz)
-            max_kap = max(
-                (
-                    r["kapacitas"]
-                    for r in termek
-                    if r["tipus"] == tantargy["teremtipus"]
-                ),
-                default=1,
-            )
-            orablokkok = ((csoport["letszam"] + max_kap - 1) // max_kap) * (
-                tantargy["oraszam"] // ora_hossz
-            )
             alkalmak = 0
 
             for ido in idosavok_kiterjesztve:
@@ -414,7 +345,6 @@ def generate_schedule_for_all(csoportok):
                 random.shuffle(oktatok)
                 oktato_found = None
                 for oktato in oktatok:
-                    if tantargy["id"] in oktato["kompetenciak"] and ido["idosav_id"] in oktato["elerhetoseg"]:
                     if (
                         tantargy["id"] in oktato["kompetenciak"]
                         and ido["idosav_id"] in oktato["elerhetoseg"]
@@ -450,78 +380,11 @@ def generate_schedule_for_all(csoportok):
                     "datum_csak_nap": ido["datum"].strftime("%Y-%m-%d"),
                     "idointervallum": idopontok.get(ido["idosav_id"], "")
                 })
-                global_orarend.append(
-                    {
-                        "csoport": csoport["nev"],
-                        "tantargy": tantargy["nev"],
-                        "oktato": oktato_found["nev"],
-                        "terem": terem_found["nev"],
-                        "idosav": ido["idosav_id"],
-                        "datum": ido["datum"].strftime("%Y-%m-%d %H:%M"),
-                        "datum_csak_nap": ido["datum"].strftime("%Y-%m-%d"),
-                        "idointervallum": idopontok.get(ido["idosav_id"], ""),
-                    }
-                )
 
                 global_oktatok_foglalt[oktato_found["id"]].add(ido["datum"])
                 global_termek_foglalt[terem_found["id"]].add(ido["datum"])
                 global_csoport_foglalt[csoport["id"]].add(ido["datum"])
                 foglalt_tantargyak[tantargy["id"]][ido["het"]].add(ido["nap"])
-                foglalt_tantargy_savok[tantargy["id"]][ido["het"]].append((ido["nap"], ido["idosav_id"]))
-                foglalt_tantargy_savok[tantargy["id"]][ido["het"]].append(
-                    (ido["nap"], ido["idosav_id"])
-                )
                 alkalmak += 1
 
     return pd.DataFrame(global_orarend)
-orarend_megjelenito.py
-+12
--5
-
-
-import streamlit as st
-import pandas as pd
-
-st.set_page_config(page_title="📅 Órarend Megjelenítő", layout="wide")
-st.title("📅 Órarend Megjelenítő")
-
-uploaded_file = st.file_uploader("📂 Töltsd fel az órarendet CSV formátumban", type=["csv"])
-uploaded_file = st.file_uploader(
-    "📂 Töltsd fel az órarendet CSV formátumban", type=["csv"]
-)
-if uploaded_file:
-    df = pd.read_csv(uploaded_file)
-    df["datum"] = pd.to_datetime(df["datum"])
-    df["het"] = df["datum"].dt.isocalendar().week
-    df["nap"] = df["datum"].dt.strftime("%A")
-    df["datum_str"] = df["datum"].dt.strftime("%Y-%m-%d")
-
-    csoportok = df["csoport"].unique()
-    csoport = st.selectbox("👥 Csoport kiválasztása", csoportok)
-
-    het_val = st.selectbox("📆 Hét kiválasztása", sorted(df["het"].unique()))
-
-    szurt_df = df[(df["csoport"] == csoport) & (df["het"] == het_val)]
-
-    szurt_df["nap_rendezes"] = pd.Categorical(szurt_df["nap"], categories=["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"], ordered=True)
-    szurt_df["nap_rendezes"] = pd.Categorical(
-        szurt_df["nap"],
-        categories=["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
-        ordered=True,
-    )
-    szurt_df = szurt_df.sort_values("nap_rendezes")
-
-    szurt_df["info"] = szurt_df["tantargy"] + "\n" + szurt_df["oktato"] + "\n" + szurt_df["terem"]
-    szurt_df["info"] = (
-        szurt_df["tantargy"] + "\n" + szurt_df["oktato"] + "\n" + szurt_df["terem"]
-    )
-
-    tabla = szurt_df.pivot_table(
-        index="idointervallum",
-        columns="datum_str",
-        values="info",
-        aggfunc=lambda x: "\n".join(x)
-        aggfunc=lambda x: "\n".join(x),
-    )
-
-    st.dataframe(tabla)
