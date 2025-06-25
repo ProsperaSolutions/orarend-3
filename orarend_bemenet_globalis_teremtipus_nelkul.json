@@ -1,0 +1,1948 @@
+{
+  "oktatok": [
+      {
+        "id": "O1",
+        "nev": "Bognár András",
+        "kompetenciak": [
+          "T8"
+        ],
+        "elerhetoseg": [
+          "H1",
+          "H2",
+          "H3",
+          "H4",
+          "H5",
+          "H6",
+          "K1",
+          "K2",
+          "K3",
+          "K4",
+          "K5",
+          "K6",
+          "S1",
+          "S2",
+          "S3",
+          "S4",
+          "S5",
+          "S6",
+          "CS1",
+          "CS2",
+          "CS3",
+          "CS4",
+          "CS5",
+          "CS6",
+          "P1",
+          "P2",
+          "P3",
+          "P4",
+          "P5",
+          "P6"
+        ]
+      },
+      {
+        "id": "O2",
+        "nev": "Gruwitzky Attila",
+        "kompetenciak": [],
+        "elerhetoseg": [
+          "H1",
+          "H2",
+          "H3",
+          "H4",
+          "H5",
+          "H6",
+          "K1",
+          "K2",
+          "K3",
+          "K4",
+          "K5",
+          "K6",
+          "S1",
+          "S2",
+          "S3",
+          "S4",
+          "S5",
+          "S6",
+          "CS1",
+          "CS2",
+          "CS3",
+          "CS4",
+          "CS5",
+          "CS6",
+          "P1",
+          "P2",
+          "P3",
+          "P4",
+          "P5",
+          "P6"
+        ]
+      },
+      {
+        "id": "O3",
+        "nev": "Kolompár Zsigmond",
+        "kompetenciak": [],
+        "elerhetoseg": [
+          "H1",
+          "H2",
+          "H3",
+          "H4",
+          "H5",
+          "H6",
+          "K1",
+          "K2",
+          "K3",
+          "K4",
+          "K5",
+          "K6",
+          "S1",
+          "S2",
+          "S3",
+          "S4",
+          "S5",
+          "S6",
+          "CS1",
+          "CS2",
+          "CS3",
+          "CS4",
+          "CS5",
+          "CS6",
+          "P1",
+          "P2",
+          "P3",
+          "P4",
+          "P5",
+          "P6"
+        ]
+      },
+      {
+        "id": "O4",
+        "nev": "Kovács Petra",
+        "kompetenciak": [
+          "T2"
+        ],
+        "elerhetoseg": [
+          "H1",
+          "H2",
+          "H3",
+          "H4",
+          "H5",
+          "H6",
+          "K1",
+          "K2",
+          "K3",
+          "K4",
+          "K5",
+          "K6",
+          "S1",
+          "S2",
+          "S3",
+          "S4",
+          "S5",
+          "S6",
+          "CS1",
+          "CS2",
+          "CS3",
+          "CS4",
+          "CS5",
+          "CS6",
+          "P1",
+          "P2",
+          "P3",
+          "P4",
+          "P5",
+          "P6"
+        ]
+      },
+      {
+        "id": "O5",
+        "nev": "László Márton",
+        "kompetenciak": [
+          "T3"
+        ],
+        "elerhetoseg": [
+          "H1",
+          "H2",
+          "H3",
+          "H4",
+          "H5",
+          "H6",
+          "K1",
+          "K2",
+          "K3",
+          "K4",
+          "K5",
+          "K6",
+          "S1",
+          "S2",
+          "S3",
+          "S4",
+          "S5",
+          "S6",
+          "CS1",
+          "CS2",
+          "CS3",
+          "CS4",
+          "CS5",
+          "CS6",
+          "P1",
+          "P2",
+          "P3",
+          "P4",
+          "P5",
+          "P6"
+        ]
+      },
+      {
+        "id": "O6",
+        "nev": "Masztur Bálint",
+        "kompetenciak": [
+          "T1",
+          "T3"
+        ],
+        "elerhetoseg": [
+          "H1",
+          "H2",
+          "H3",
+          "H4",
+          "H5",
+          "H6",
+          "K1",
+          "K2",
+          "K3",
+          "K4",
+          "K5",
+          "K6",
+          "S1",
+          "S2",
+          "S3",
+          "S4",
+          "S5",
+          "S6",
+          "CS1",
+          "CS2",
+          "CS3",
+          "CS4",
+          "CS5",
+          "CS6",
+          "P1",
+          "P2",
+          "P3",
+          "P4",
+          "P5",
+          "P6"
+        ]
+      },
+      {
+        "id": "O7",
+        "nev": "Nagy Virág",
+        "kompetenciak": [],
+        "elerhetoseg": [
+          "H1",
+          "H2",
+          "H3",
+          "H4",
+          "H5",
+          "H6",
+          "K1",
+          "K2",
+          "K3",
+          "K4",
+          "K5",
+          "K6",
+          "S1",
+          "S2",
+          "S3",
+          "S4",
+          "S5",
+          "S6",
+          "CS1",
+          "CS2",
+          "CS3",
+          "CS4",
+          "CS5",
+          "CS6",
+          "P1",
+          "P2",
+          "P3",
+          "P4",
+          "P5",
+          "P6"
+        ]
+      },
+      {
+        "id": "O8",
+        "nev": "Sinkovszky Brúnó",
+        "kompetenciak": [
+          "T9"
+        ],
+        "elerhetoseg": [
+          "H1",
+          "H2",
+          "H3",
+          "H4",
+          "H5",
+          "H6",
+          "K1",
+          "K2",
+          "K3",
+          "K4",
+          "K5",
+          "K6",
+          "S1",
+          "S2",
+          "S3",
+          "S4",
+          "S5",
+          "S6",
+          "CS1",
+          "CS2",
+          "CS3",
+          "CS4",
+          "CS5",
+          "CS6",
+          "P1",
+          "P2",
+          "P3",
+          "P4",
+          "P5",
+          "P6"
+        ]
+      },
+      {
+        "id": "O9",
+        "nev": "Szabó Dániel",
+        "kompetenciak": [
+          "T5"
+        ],
+        "elerhetoseg": [
+          "H1",
+          "H2",
+          "H3",
+          "H4",
+          "H5",
+          "H6",
+          "K1",
+          "K2",
+          "K3",
+          "K4",
+          "K5",
+          "K6",
+          "S1",
+          "S2",
+          "S3",
+          "S4",
+          "S5",
+          "S6",
+          "CS1",
+          "CS2",
+          "CS3",
+          "CS4",
+          "CS5",
+          "CS6",
+          "P1",
+          "P2",
+          "P3",
+          "P4",
+          "P5",
+          "P6"
+        ]
+      },
+      {
+        "id": "O10",
+        "nev": "Tóth Gergely",
+        "kompetenciak": [
+          "T9"
+        ],
+        "elerhetoseg": [
+          "H1",
+          "H2",
+          "H3",
+          "H4",
+          "H5",
+          "H6",
+          "K1",
+          "K2",
+          "K3",
+          "K4",
+          "K5",
+          "K6",
+          "S1",
+          "S2",
+          "S3",
+          "S4",
+          "S5",
+          "S6",
+          "CS1",
+          "CS2",
+          "CS3",
+          "CS4",
+          "CS5",
+          "CS6",
+          "P1",
+          "P2",
+          "P3",
+          "P4",
+          "P5",
+          "P6"
+        ]
+      },
+      {
+        "id": "O11",
+        "nev": "Tóth Ádám",
+        "kompetenciak": [],
+        "elerhetoseg": [
+          "H1",
+          "H2",
+          "H3",
+          "H4",
+          "H5",
+          "H6",
+          "K1",
+          "K2",
+          "K3",
+          "K4",
+          "K5",
+          "K6",
+          "S1",
+          "S2",
+          "S3",
+          "S4",
+          "S5",
+          "S6",
+          "CS1",
+          "CS2",
+          "CS3",
+          "CS4",
+          "CS5",
+          "CS6",
+          "P1",
+          "P2",
+          "P3",
+          "P4",
+          "P5",
+          "P6"
+        ]
+      }],
+  "termek": [],
+  "csoportok": [
+    {
+      "csoport": {
+        "id": "Automat_N1",
+        "nev": "Automatikai technikus Nappali elsö evfolyam",
+        "letszam": 33
+      },
+      "tantargyak": [
+        {
+          "id": "T1",
+          "nev": "PLC programozás",
+          "tipus": "gyakorlat",
+          "oraszam": 60,
+          "teremtipus": "PLC labor"
+        },
+        {
+          "id": "T2",
+          "nev": "Mikrovezérlők programozása",
+          "tipus": "gyakorlat",
+          "oraszam": 40,
+          "teremtipus": "mikrovezérlő labor"
+        },
+        {
+          "id": "T3",
+          "nev": "Villamos biztonságtechnika",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T4",
+          "nev": "Hidraulika és pneumatika",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T5",
+          "nev": "Müszaki rajz",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T6",
+          "nev": "Elektronikus áramkörök tervezése",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T7",
+          "nev": "Iränyitástechnika",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "irányitástechnikai labor"
+        },
+        {
+          "id": "T8",
+          "nev": "Forgácsolási eljárások gyakorlata",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "forgácsolóműhely"
+        },
+        {
+          "id": "T9",
+          "nev": "Robotok programozása és üzemeltetése",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "robotika labor"
+        }
+      ],
+      "beallitasok": {
+        "hetek_szama": 2,
+        "kezdo_datum": "2025-09-01"
+      }
+    },
+    {
+      "csoport": {
+        "id": "Automat_N2",
+        "nev": "Automatikai technikus Nappali masodik evfolyam",
+        "letszam": 27
+      },
+      "tantargyak": [
+        {
+          "id": "T1",
+          "nev": "PLC programozás 2",
+          "tipus": "gyakorlat",
+          "oraszam": 60,
+          "teremtipus": "PLC labor"
+        },
+        {
+          "id": "T2",
+          "nev": "Mikrovezérlők programozása 2",
+          "tipus": "gyakorlat",
+          "oraszam": 40,
+          "teremtipus": "mikrovezérlő labor"
+        },
+        {
+          "id": "T3",
+          "nev": "Villamos biztonságtechnika 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T4",
+          "nev": "Hidraulika és pneumatika 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T5",
+          "nev": "Müszaki rajz 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T6",
+          "nev": "Elektronikus áramkörök tervezése 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T7",
+          "nev": "Iränyitástechnika 2",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "irányitástechnikai labor"
+        },
+        {
+          "id": "T8",
+          "nev": "Forgácsolási eljárások gyakorlata 2",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "forgácsolóműhely"
+        },
+        {
+          "id": "T9",
+          "nev": "Robotok programozása és üzemeltetése 2",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "robotika labor"
+        }
+      ],
+      "beallitasok": {
+        "hetek_szama": 2,
+        "kezdo_datum": "2025-09-01"
+      }
+    },
+    {
+      "csoport": {
+        "id": "Elektro_N1",
+        "nev": "Elektronikai technikus Nappali elsö evfolyam",
+        "letszam": 25
+      },
+      "tantargyak": [
+        {
+          "id": "T1",
+          "nev": "PLC programozás",
+          "tipus": "gyakorlat",
+          "oraszam": 60,
+          "teremtipus": "PLC labor"
+        },
+        {
+          "id": "T2",
+          "nev": "Mikrovezérlők programozása",
+          "tipus": "gyakorlat",
+          "oraszam": 40,
+          "teremtipus": "mikrovezérlő labor"
+        },
+        {
+          "id": "T3",
+          "nev": "Villamos biztonságtechnika",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T4",
+          "nev": "Hidraulika és pneumatika",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T5",
+          "nev": "Müszaki rajz",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T6",
+          "nev": "Elektronikus áramkörök tervezése",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T7",
+          "nev": "Iränyitástechnika",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "irányitástechnikai labor"
+        },
+        {
+          "id": "T8",
+          "nev": "Forgácsolási eljárások gyakorlata",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "forgácsolóműhely"
+        },
+        {
+          "id": "T9",
+          "nev": "Robotok programozása és üzemeltetése",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "robotika labor"
+        }
+      ],
+      "beallitasok": {
+        "hetek_szama": 2,
+        "kezdo_datum": "2025-09-01"
+      }
+    },
+    {
+      "csoport": {
+        "id": "Elektro_N2",
+        "nev": "Elektronikai technikus Nappali masodik evfolyam",
+        "letszam": 29
+      },
+      "tantargyak": [
+        {
+          "id": "T1",
+          "nev": "PLC programozás 2",
+          "tipus": "gyakorlat",
+          "oraszam": 60,
+          "teremtipus": "PLC labor"
+        },
+        {
+          "id": "T2",
+          "nev": "Mikrovezérlők programozása 2",
+          "tipus": "gyakorlat",
+          "oraszam": 40,
+          "teremtipus": "mikrovezérlő labor"
+        },
+        {
+          "id": "T3",
+          "nev": "Villamos biztonságtechnika 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T4",
+          "nev": "Hidraulika és pneumatika 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T5",
+          "nev": "Müszaki rajz 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T6",
+          "nev": "Elektronikus áramkörök tervezése 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T7",
+          "nev": "Iränyitástechnika 2",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "irányitástechnikai labor"
+        },
+        {
+          "id": "T8",
+          "nev": "Forgácsolási eljárások gyakorlata 2",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "forgácsolóműhely"
+        },
+        {
+          "id": "T9",
+          "nev": "Robotok programozása és üzemeltetése 2",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "robotika labor"
+        }
+      ],
+      "beallitasok": {
+        "hetek_szama": 2,
+        "kezdo_datum": "2025-09-01"
+      }
+    },
+    {
+      "csoport": {
+        "id": "ErET_N1",
+        "nev": "Erösaramu elektrotechnikus nappali elsö evfolyam",
+        "letszam": 11
+      },
+      "tantargyak": [
+        {
+          "id": "T1",
+          "nev": "PLC programozás",
+          "tipus": "gyakorlat",
+          "oraszam": 60,
+          "teremtipus": "PLC labor"
+        },
+        {
+          "id": "T2",
+          "nev": "Mikrovezérlők programozása",
+          "tipus": "gyakorlat",
+          "oraszam": 40,
+          "teremtipus": "mikrovezérlő labor"
+        },
+        {
+          "id": "T3",
+          "nev": "Villamos biztonságtechnika",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T4",
+          "nev": "Hidraulika és pneumatika",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T5",
+          "nev": "Müszaki rajz",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T6",
+          "nev": "Elektronikus áramkörök tervezése",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T7",
+          "nev": "Iränyitástechnika",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "irányitástechnikai labor"
+        },
+        {
+          "id": "T8",
+          "nev": "Forgácsolási eljárások gyakorlata",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "forgácsolóműhely"
+        },
+        {
+          "id": "T9",
+          "nev": "Robotok programozása és üzemeltetése",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "robotika labor"
+        }
+      ],
+      "beallitasok": {
+        "hetek_szama": 2,
+        "kezdo_datum": "2025-09-01"
+      }
+    },
+    {
+      "csoport": {
+        "id": "ErET_N2",
+        "nev": "Erösaramu elektrotechnikus nappali masodik evfolyam",
+        "letszam": 16
+      },
+      "tantargyak": [
+        {
+          "id": "T1",
+          "nev": "PLC programozás 2",
+          "tipus": "gyakorlat",
+          "oraszam": 60,
+          "teremtipus": "PLC labor"
+        },
+        {
+          "id": "T2",
+          "nev": "Mikrovezérlők programozása 2",
+          "tipus": "gyakorlat",
+          "oraszam": 40,
+          "teremtipus": "mikrovezérlő labor"
+        },
+        {
+          "id": "T3",
+          "nev": "Villamos biztonságtechnika 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T4",
+          "nev": "Hidraulika és pneumatika 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T5",
+          "nev": "Müszaki rajz 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T6",
+          "nev": "Elektronikus áramkörök tervezése 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T7",
+          "nev": "Iränyitástechnika 2",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "irányitástechnikai labor"
+        },
+        {
+          "id": "T8",
+          "nev": "Forgácsolási eljárások gyakorlata 2",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "forgácsolóműhely"
+        },
+        {
+          "id": "T9",
+          "nev": "Robotok programozása és üzemeltetése 2",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "robotika labor"
+        }
+      ],
+      "beallitasok": {
+        "hetek_szama": 2,
+        "kezdo_datum": "2025-09-01"
+      }
+    },
+    {
+      "csoport": {
+        "id": "GGYT_N1",
+        "nev": "gépgyártás-technológiai technikus nappali elsö evfolyam",
+        "letszam": 20
+      },
+      "tantargyak": [
+        {
+          "id": "T1",
+          "nev": "PLC programozás",
+          "tipus": "gyakorlat",
+          "oraszam": 60,
+          "teremtipus": "PLC labor"
+        },
+        {
+          "id": "T2",
+          "nev": "Mikrovezérlők programozása",
+          "tipus": "gyakorlat",
+          "oraszam": 40,
+          "teremtipus": "mikrovezérlő labor"
+        },
+        {
+          "id": "T3",
+          "nev": "Villamos biztonságtechnika",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T4",
+          "nev": "Hidraulika és pneumatika",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T5",
+          "nev": "Müszaki rajz",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T6",
+          "nev": "Elektronikus áramkörök tervezése",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T7",
+          "nev": "Iränyitástechnika",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "irányitástechnikai labor"
+        },
+        {
+          "id": "T8",
+          "nev": "Forgácsolási eljárások gyakorlata",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "forgácsolóműhely"
+        },
+        {
+          "id": "T9",
+          "nev": "Robotok programozása és üzemeltetése",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "robotika labor"
+        }
+      ],
+      "beallitasok": {
+        "hetek_szama": 2,
+        "kezdo_datum": "2025-09-01"
+      }
+    },
+    {
+      "csoport": {
+        "id": "GGYT_N2",
+        "nev": "gépgyártás-technológiai technikus nappali masodik evfolyam",
+        "letszam": 25
+      },
+      "tantargyak": [
+        {
+          "id": "T1",
+          "nev": "PLC programozás 2",
+          "tipus": "gyakorlat",
+          "oraszam": 60,
+          "teremtipus": "PLC labor"
+        },
+        {
+          "id": "T2",
+          "nev": "Mikrovezérlők programozása 2",
+          "tipus": "gyakorlat",
+          "oraszam": 40,
+          "teremtipus": "mikrovezérlő labor"
+        },
+        {
+          "id": "T3",
+          "nev": "Villamos biztonságtechnika 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T4",
+          "nev": "Hidraulika és pneumatika 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T5",
+          "nev": "Müszaki rajz 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T6",
+          "nev": "Elektronikus áramkörök tervezése 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T7",
+          "nev": "Iränyitástechnika 2",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "irányitástechnikai labor"
+        },
+        {
+          "id": "T8",
+          "nev": "Forgácsolási eljárások gyakorlata 2",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "forgácsolóműhely"
+        },
+        {
+          "id": "T9",
+          "nev": "Robotok programozása és üzemeltetése 2",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "robotika labor"
+        }
+      ],
+      "beallitasok": {
+        "hetek_szama": 2,
+        "kezdo_datum": "2025-09-01"
+      }
+    },
+    {
+      "csoport": {
+        "id": "IH_N1",
+        "nev": "Infokommunikációs hálózatépítő- és üzemeltető technikus nappali elsö evfolyam",
+        "letszam": 30
+      },
+      "tantargyak": [
+        {
+          "id": "T1",
+          "nev": "PLC programozás",
+          "tipus": "gyakorlat",
+          "oraszam": 60,
+          "teremtipus": "PLC labor"
+        },
+        {
+          "id": "T2",
+          "nev": "Mikrovezérlők programozása",
+          "tipus": "gyakorlat",
+          "oraszam": 40,
+          "teremtipus": "mikrovezérlő labor"
+        },
+        {
+          "id": "T3",
+          "nev": "Villamos biztonságtechnika",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T4",
+          "nev": "Hidraulika és pneumatika",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T5",
+          "nev": "Müszaki rajz",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T6",
+          "nev": "Elektronikus áramkörök tervezése",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T7",
+          "nev": "Iränyitástechnika",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "irányitástechnikai labor"
+        },
+        {
+          "id": "T8",
+          "nev": "Forgácsolási eljárások gyakorlata",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "forgácsolóműhely"
+        },
+        {
+          "id": "T9",
+          "nev": "Robotok programozása és üzemeltetése",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "robotika labor"
+        }
+      ],
+      "beallitasok": {
+        "hetek_szama": 2,
+        "kezdo_datum": "2025-09-01"
+      }
+    },
+    {
+      "csoport": {
+        "id": "IH_N2",
+        "nev": "Infokommunikációs hálózatépítő- és üzemeltető technikus nappali masodik evfolyam",
+        "letszam": 33
+      },
+      "tantargyak": [
+        {
+          "id": "T1",
+          "nev": "PLC programozás 2",
+          "tipus": "gyakorlat",
+          "oraszam": 60,
+          "teremtipus": "PLC labor"
+        },
+        {
+          "id": "T2",
+          "nev": "Mikrovezérlők programozása 2",
+          "tipus": "gyakorlat",
+          "oraszam": 40,
+          "teremtipus": "mikrovezérlő labor"
+        },
+        {
+          "id": "T3",
+          "nev": "Villamos biztonságtechnika 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T4",
+          "nev": "Hidraulika és pneumatika 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T5",
+          "nev": "Müszaki rajz 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T6",
+          "nev": "Elektronikus áramkörök tervezése 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T7",
+          "nev": "Iränyitástechnika 2",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "irányitástechnikai labor"
+        },
+        {
+          "id": "T8",
+          "nev": "Forgácsolási eljárások gyakorlata 2",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "forgácsolóműhely"
+        },
+        {
+          "id": "T9",
+          "nev": "Robotok programozása és üzemeltetése 2",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "robotika labor"
+        }
+      ],
+      "beallitasok": {
+        "hetek_szama": 2,
+        "kezdo_datum": "2025-09-01"
+      }
+    },
+    {
+      "csoport": {
+        "id": "IIT_N1",
+        "nev": "Ipari informatikai technikus nappali elso evfolyam",
+        "letszam": 32
+      },
+      "tantargyak": [
+        {
+          "id": "T1",
+          "nev": "PLC programozás 1",
+          "tipus": "gyakorlat",
+          "oraszam": 60,
+          "teremtipus": "PLC labor"
+        },
+        {
+          "id": "T2",
+          "nev": "Mikrovezérlők programozása 1",
+          "tipus": "gyakorlat",
+          "oraszam": 40,
+          "teremtipus": "mikrovezérlő labor"
+        },
+        {
+          "id": "T3",
+          "nev": "Villamos biztonságtechnika 1",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T4",
+          "nev": "Hidraulika és pneumatika 1",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T5",
+          "nev": "Müszaki rajz 1",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T6",
+          "nev": "Elektronikus áramkörök tervezése 1",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T7",
+          "nev": "Iränyitástechnika 1",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "irányitástechnikai labor"
+        },
+        {
+          "id": "T8",
+          "nev": "Forgácsolási eljárások gyakorlata 1",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "forgácsolóműhely"
+        },
+        {
+          "id": "T9",
+          "nev": "Robotok programozása és üzemeltetése 1",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "robotika labor"
+        }
+      ],
+      "beallitasok": {
+        "hetek_szama": 2,
+        "kezdo_datum": "2025-09-01"
+      }
+    },
+    {
+      "csoport": {
+        "id": "IIT_N2",
+        "nev": "Ipari informatikai technikus nappali masodik evfolyam",
+        "letszam": 26
+      },
+      "tantargyak": [
+        {
+          "id": "T1",
+          "nev": "PLC programozás 2",
+          "tipus": "gyakorlat",
+          "oraszam": 60,
+          "teremtipus": "PLC labor"
+        },
+        {
+          "id": "T2",
+          "nev": "Mikrovezérlők programozása 2",
+          "tipus": "gyakorlat",
+          "oraszam": 40,
+          "teremtipus": "mikrovezérlő labor"
+        },
+        {
+          "id": "T3",
+          "nev": "Villamos biztonságtechnika 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T4",
+          "nev": "Hidraulika és pneumatika 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T5",
+          "nev": "Müszaki rajz 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T6",
+          "nev": "Elektronikus áramkörök tervezése 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T7",
+          "nev": "Iränyitástechnika 2",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "irányitástechnikai labor"
+        },
+        {
+          "id": "T8",
+          "nev": "Forgácsolási eljárások gyakorlata 2",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "forgácsolóműhely"
+        },
+        {
+          "id": "T9",
+          "nev": "Robotok programozása és üzemeltetése 2",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "robotika labor"
+        }
+      ],
+      "beallitasok": {
+        "hetek_szama": 2,
+        "kezdo_datum": "2025-09-01"
+      }
+    },
+    {
+      "csoport": {
+        "id": "MT_N1",
+        "nev": "Mechatronikai technikaus nappali elsö evfolyam",
+        "letszam": 29
+      },
+      "tantargyak": [
+        {
+          "id": "T1",
+          "nev": "PLC programozás",
+          "tipus": "gyakorlat",
+          "oraszam": 60,
+          "teremtipus": "PLC labor"
+        },
+        {
+          "id": "T2",
+          "nev": "Mikrovezérlők programozása",
+          "tipus": "gyakorlat",
+          "oraszam": 40,
+          "teremtipus": "mikrovezérlő labor"
+        },
+        {
+          "id": "T3",
+          "nev": "Villamos biztonságtechnika",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T4",
+          "nev": "Hidraulika és pneumatika",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T5",
+          "nev": "Müszaki rajz",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T6",
+          "nev": "Elektronikus áramkörök tervezése",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T7",
+          "nev": "Iränyitástechnika",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "irányitástechnikai labor"
+        },
+        {
+          "id": "T8",
+          "nev": "Forgácsolási eljárások gyakorlata",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "forgácsolóműhely"
+        },
+        {
+          "id": "T9",
+          "nev": "Robotok programozása és üzemeltetése",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "robotika labor"
+        }
+      ],
+      "beallitasok": {
+        "hetek_szama": 2,
+        "kezdo_datum": "2025-09-01"
+      }
+    },
+    {
+      "csoport": {
+        "id": "MT_N2",
+        "nev": "Mechatronikai technikaus nappali masodik evfolyam",
+        "letszam": 20
+      },
+      "tantargyak": [
+        {
+          "id": "T1",
+          "nev": "PLC programozás 2",
+          "tipus": "gyakorlat",
+          "oraszam": 60,
+          "teremtipus": "PLC labor"
+        },
+        {
+          "id": "T2",
+          "nev": "Mikrovezérlők programozása 2",
+          "tipus": "gyakorlat",
+          "oraszam": 40,
+          "teremtipus": "mikrovezérlő labor"
+        },
+        {
+          "id": "T3",
+          "nev": "Villamos biztonságtechnika 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T4",
+          "nev": "Hidraulika és pneumatika 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T5",
+          "nev": "Müszaki rajz 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T6",
+          "nev": "Elektronikus áramkörök tervezése 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T7",
+          "nev": "Iränyitástechnika 2",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "irányitástechnikai labor"
+        },
+        {
+          "id": "T8",
+          "nev": "Forgácsolási eljárások gyakorlata 2",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "forgácsolóműhely"
+        },
+        {
+          "id": "T9",
+          "nev": "Robotok programozása és üzemeltetése 2",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "robotika labor"
+        }
+      ],
+      "beallitasok": {
+        "hetek_szama": 2,
+        "kezdo_datum": "2025-09-01"
+      }
+    },
+    {
+      "csoport": {
+        "id": "VSZ_N1",
+        "nev": "Villanszerelö nappali elsö evfolyam",
+        "letszam": 40
+      },
+      "tantargyak": [
+        {
+          "id": "T1",
+          "nev": "PLC programozás",
+          "tipus": "gyakorlat",
+          "oraszam": 60,
+          "teremtipus": "PLC labor"
+        },
+        {
+          "id": "T2",
+          "nev": "Mikrovezérlők programozása",
+          "tipus": "gyakorlat",
+          "oraszam": 40,
+          "teremtipus": "mikrovezérlő labor"
+        },
+        {
+          "id": "T3",
+          "nev": "Villamos biztonságtechnika",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T4",
+          "nev": "Hidraulika és pneumatika",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T5",
+          "nev": "Müszaki rajz",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T6",
+          "nev": "Elektronikus áramkörök tervezése",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T7",
+          "nev": "Iränyitástechnika",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "irányitástechnikai labor"
+        },
+        {
+          "id": "T8",
+          "nev": "Forgácsolási eljárások gyakorlata",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "forgácsolóműhely"
+        },
+        {
+          "id": "T9",
+          "nev": "Robotok programozása és üzemeltetése",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "robotika labor"
+        }
+      ],
+      "beallitasok": {
+        "hetek_szama": 2,
+        "kezdo_datum": "2025-09-01"
+      }
+    },
+    {
+      "csoport": {
+        "id": "VSZ_N2",
+        "nev": "Villanszerelö nappali masodik evfolyam",
+        "letszam": 39
+      },
+      "tantargyak": [
+        {
+          "id": "T1",
+          "nev": "PLC programozás 2",
+          "tipus": "gyakorlat",
+          "oraszam": 60,
+          "teremtipus": "PLC labor"
+        },
+        {
+          "id": "T2",
+          "nev": "Mikrovezérlők programozása 2",
+          "tipus": "gyakorlat",
+          "oraszam": 40,
+          "teremtipus": "mikrovezérlő labor"
+        },
+        {
+          "id": "T3",
+          "nev": "Villamos biztonságtechnika 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T4",
+          "nev": "Hidraulika és pneumatika 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T5",
+          "nev": "Müszaki rajz 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T6",
+          "nev": "Elektronikus áramkörök tervezése 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T7",
+          "nev": "Iränyitástechnika 2",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "irányitástechnikai labor"
+        },
+        {
+          "id": "T8",
+          "nev": "Forgácsolási eljárások gyakorlata 2",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "forgácsolóműhely"
+        },
+        {
+          "id": "T9",
+          "nev": "Robotok programozása és üzemeltetése 2",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "robotika labor"
+        }
+      ],
+      "beallitasok": {
+        "hetek_szama": 2,
+        "kezdo_datum": "2025-09-01"
+      }
+    },
+    {
+      "csoport": {
+        "id": "GT_N1",
+        "nev": "Gepesz technikus nappali elsö evfolyam",
+        "letszam": 32
+      },
+      "tantargyak": [
+        {
+          "id": "T1",
+          "nev": "PLC programozás",
+          "tipus": "gyakorlat",
+          "oraszam": 60,
+          "teremtipus": "PLC labor"
+        },
+        {
+          "id": "T2",
+          "nev": "Mikrovezérlők programozása",
+          "tipus": "gyakorlat",
+          "oraszam": 40,
+          "teremtipus": "mikrovezérlő labor"
+        },
+        {
+          "id": "T3",
+          "nev": "Villamos biztonságtechnika",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T4",
+          "nev": "Hidraulika és pneumatika",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T5",
+          "nev": "Müszaki rajz",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T6",
+          "nev": "Elektronikus áramkörök tervezése",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T7",
+          "nev": "Iränyitástechnika",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "irányitástechnikai labor"
+        },
+        {
+          "id": "T8",
+          "nev": "Forgácsolási eljárások gyakorlata",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "forgácsolóműhely"
+        },
+        {
+          "id": "T9",
+          "nev": "Robotok programozása és üzemeltetése",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "robotika labor"
+        }
+      ],
+      "beallitasok": {
+        "hetek_szama": 2,
+        "kezdo_datum": "2025-09-01"
+      }
+    },
+    {
+      "csoport": {
+        "id": "GT_N2",
+        "nev": "Gepesz technikus nappali masodik evfolyam",
+        "letszam": 22
+      },
+      "tantargyak": [
+        {
+          "id": "T1",
+          "nev": "PLC programozás 2",
+          "tipus": "gyakorlat",
+          "oraszam": 60,
+          "teremtipus": "PLC labor"
+        },
+        {
+          "id": "T2",
+          "nev": "Mikrovezérlők programozása 2",
+          "tipus": "gyakorlat",
+          "oraszam": 40,
+          "teremtipus": "mikrovezérlő labor"
+        },
+        {
+          "id": "T3",
+          "nev": "Villamos biztonságtechnika 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T4",
+          "nev": "Hidraulika és pneumatika 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T5",
+          "nev": "Müszaki rajz 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T6",
+          "nev": "Elektronikus áramkörök tervezése 2",
+          "tipus": "elmelet",
+          "oraszam": 30,
+          "teremtipus": "elmeleti"
+        },
+        {
+          "id": "T7",
+          "nev": "Iränyitástechnika 2",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "irányitástechnikai labor"
+        },
+        {
+          "id": "T8",
+          "nev": "Forgácsolási eljárások gyakorlata 2",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "forgácsolóműhely"
+        },
+        {
+          "id": "T9",
+          "nev": "Robotok programozása és üzemeltetése 2",
+          "tipus": "gyakorlat",
+          "oraszam": 30,
+          "teremtipus": "robotika labor"
+        }
+      ],
+      "beallitasok": {
+        "hetek_szama": 2,
+        "kezdo_datum": "2025-09-01"
+      }
+    }
+  ],
+  "idosavok": [
+    {
+      "id": "H1",
+      "nap": "Hetfo",
+      "ido": "08:00"
+    },
+    {
+      "id": "H2",
+      "nap": "Hetfo",
+      "ido": "10:00"
+    },
+    {
+      "id": "H3",
+      "nap": "Hetfo",
+      "ido": "12:00"
+    },
+    {
+      "id": "H4",
+      "nap": "Hetfo",
+      "ido": "14:00"
+    },
+    {
+      "id": "H5",
+      "nap": "Hetfo",
+      "ido": "16:00"
+    },
+    {
+      "id": "H6",
+      "nap": "Hetfo",
+      "ido": "18:00"
+    },
+    {
+      "id": "K1",
+      "nap": "Kedd",
+      "ido": "08:00"
+    },
+    {
+      "id": "K2",
+      "nap": "Kedd",
+      "ido": "10:00"
+    },
+    {
+      "id": "K3",
+      "nap": "Kedd",
+      "ido": "12:00"
+    },
+    {
+      "id": "K4",
+      "nap": "Kedd",
+      "ido": "14:00"
+    },
+    {
+      "id": "K5",
+      "nap": "Kedd",
+      "ido": "16:00"
+    },
+    {
+      "id": "K6",
+      "nap": "Kedd",
+      "ido": "18:00"
+    },
+    {
+      "id": "S1",
+      "nap": "Szerda",
+      "ido": "08:00"
+    },
+    {
+      "id": "S2",
+      "nap": "Szerda",
+      "ido": "10:00"
+    },
+    {
+      "id": "S3",
+      "nap": "Szerda",
+      "ido": "12:00"
+    },
+    {
+      "id": "S4",
+      "nap": "Szerda",
+      "ido": "14:00"
+    },
+    {
+      "id": "S5",
+      "nap": "Szerda",
+      "ido": "16:00"
+    },
+    {
+      "id": "S6",
+      "nap": "Szerda",
+      "ido": "18:00"
+    },
+    {
+      "id": "CS1",
+      "nap": "Csütörtök",
+      "ido": "08:00"
+    },
+    {
+      "id": "CS2",
+      "nap": "Csütörtök",
+      "ido": "10:00"
+    },
+    {
+      "id": "CS3",
+      "nap": "Csütörtök",
+      "ido": "12:00"
+    },
+    {
+      "id": "CS4",
+      "nap": "Csütörtök",
+      "ido": "14:00"
+    },
+    {
+      "id": "CS5",
+      "nap": "Csütörtök",
+      "ido": "16:00"
+    },
+    {
+      "id": "CS6",
+      "nap": "Csütörtök",
+      "ido": "18:00"
+    },
+    {
+      "id": "P1",
+      "nap": "Péntek",
+      "ido": "08:00"
+    },
+    {
+      "id": "P2",
+      "nap": "Péntek",
+      "ido": "10:00"
+    },
+    {
+      "id": "P3",
+      "nap": "Péntek",
+      "ido": "12:00"
+    },
+    {
+      "id": "P4",
+      "nap": "Péntek",
+      "ido": "14:00"
+    },
+    {
+      "id": "P5",
+      "nap": "Péntek",
+      "ido": "16:00"
+    },
+    {
+      "id": "P6",
+      "nap": "Péntek",
+      "ido": "18:00"
+    }
+  ]
+}
